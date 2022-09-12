@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="edu.escuelaing.arem.AppTest" time="0.002" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="edu.escuelaing.arem.AppTest" time="0" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_333\jre\bin"/>
     <property name="java.vm.version" value="25.333-b02"/>
+    <property name="exec.mainClass" value="edu.escuelaing.arem.httpServer.HttpServer"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="maven.multiModuleProjectDirectory" value="C:\Users\diego.gonzalez-g\Documents\AREP-CLIENT_SERVICE_EXERCISES"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
@@ -46,7 +47,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_333\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package exec:java -D exec.mainClass=edu.escuelaing.arem.httpServer.HttpServer"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -65,5 +66,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="edu.escuelaing.arem.AppTest" name="testApp" time="0.002"/>
+  <testcase classname="edu.escuelaing.arem.AppTest" name="testApp" time="0"/>
 </testsuite>
