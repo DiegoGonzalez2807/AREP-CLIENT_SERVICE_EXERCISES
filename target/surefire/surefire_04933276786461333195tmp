@@ -1,6 +1,0 @@
-#surefire_0
-#Mon Sep 12 08:53:46 COT 2022
-exec.mainClass=edu.escuelaing.arem.httpServer.HttpServer
-basedir=C\:\\Users\\diego.gonzalez-g\\Documents\\AREP-CLIENT_SERVICE_EXERCISES
-user.dir=C\:\\Users\\diego.gonzalez-g\\Documents\\AREP-CLIENT_SERVICE_EXERCISES
-localRepository=C\:\\Users\\diego.gonzalez-g\\.m2\\repository
