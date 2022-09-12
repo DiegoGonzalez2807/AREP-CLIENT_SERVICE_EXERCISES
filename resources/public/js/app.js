@@ -1,7 +1,7 @@
 function traerPerrito(){
-    window.location.href = "https://whispering-inlet-14124.herokuapp.com/prueba.png";
+    window.location.href = "http://localhost:4567/prueba.png";
 }
 
 function traerHTML(){
-    window.location.href = "https://whispering-inlet-14124.herokuapp.com/pruebaIndex.html";
+    window.location.href = "http://localhost:4567/pruebaIndex.html";
 }
