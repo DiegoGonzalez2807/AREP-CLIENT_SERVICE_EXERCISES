@@ -94,10 +94,16 @@ function traerHTML(){
 }
 ```
 
+![](https://github.com/DiegoGonzalez2807/AREP-CLIENT_SERVICE_EXERCISES/blob/master/resources/images/PruebaInicio.png)
+
+
 ### Pruebas 
 #### Prueba de Imagen
+![](https://github.com/DiegoGonzalez2807/AREP-CLIENT_SERVICE_EXERCISES/blob/master/resources/images/pruebaImagen.png)
 
 #### Prueba de texto
+![](https://github.com/DiegoGonzalez2807/AREP-CLIENT_SERVICE_EXERCISES/blob/master/resources/images/pruebaHTML.png)
+
 ## Authors
 
 * **Diego Gonzalez**
